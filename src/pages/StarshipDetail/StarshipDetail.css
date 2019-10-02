@@ -1,0 +1,16 @@
+.Detail-Items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 4vmin 4vmin 4vmin;
+  
+}
+
+.Detail-Card {
+  display: inline-block;
+  background-color: brown;
+  color: rgba(255, 255, 255, .9);
+  border: 8px solid brown;
+  border-radius: 23px;
+}

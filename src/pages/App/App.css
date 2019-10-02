@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  background-image: url(https://www.jakpost.travel/wimages/large/32-323847_4k-death-star-wallpaper-photo-star-wars-space.jpg);
+  background-repeat: no-repeat;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-Title {
+  color: rgba(255, 255, 255, .9)
+}
+
+.App-header {
+  background-color: rgba(211, 122, 100, 0.8);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.App-Main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.App-Button {
+  font-size: 24px;
+  margin: 5px;
+  height: 15vh;
+  width: 15vw;
+  color: white;
+  background-color: rgba(153, 100, 65, 0.938);
+}
